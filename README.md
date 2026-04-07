@@ -23,21 +23,29 @@ My work usually sits between service design, distributed systems, runtime decisi
 ### 📦 Open Source
 
 <p>
-  <a href="https://www.npmjs.com/package/@xendora/react-timer">
-    <img alt="@xendora/react-timer" src="https://img.shields.io/badge/@xendora%2Freact--timer-111827?style=for-the-badge&logo=npm&logoColor=CB3837">
+  <a href="https://github.com/crup/react-timer-hook">
+    <img alt="crup/react-timer-hook" src="https://img.shields.io/badge/crup%2Freact--timer--hook-111827?style=for-the-badge&logo=github&logoColor=FFFFFF">
   </a>
-  <a href="https://www.npmjs.com/package/@xendora/react-timer">
-    <img alt="NPM version" src="https://img.shields.io/npm/v/@xendora/react-timer?style=for-the-badge&label=version&logo=npm&logoColor=CB3837&color=111827">
+  <a href="https://www.npmjs.com/package/@crup/react-timer-hook">
+    <img alt="@crup/react-timer-hook" src="https://img.shields.io/badge/@crup%2Freact--timer--hook-111827?style=for-the-badge&logo=npm&logoColor=CB3837">
   </a>
-  <a href="https://www.npmjs.com/package/@xendora/react-timer">
-    <img alt="NPM weekly downloads" src="https://img.shields.io/npm/dw/@xendora/react-timer?style=for-the-badge&label=weekly%20downloads&logo=npm&logoColor=CB3837&color=111827">
+  <a href="https://www.npmjs.com/package/@crup/react-timer-hook">
+    <img alt="NPM version" src="https://img.shields.io/npm/v/@crup/react-timer-hook?style=for-the-badge&label=version&logo=npm&logoColor=CB3837&color=111827">
   </a>
-  <a href="https://www.npmjs.com/package/@xendora/react-timer">
-    <img alt="NPM license" src="https://img.shields.io/npm/l/@xendora/react-timer?style=for-the-badge&label=license&color=111827">
+  <a href="https://www.npmjs.com/package/@crup/react-timer-hook">
+    <img alt="NPM weekly downloads" src="https://img.shields.io/npm/dw/@crup/react-timer-hook?style=for-the-badge&label=weekly%20downloads&logo=npm&logoColor=CB3837&color=111827">
+  </a>
+  <a href="https://www.npmjs.com/package/@crup/react-timer-hook">
+    <img alt="NPM license" src="https://img.shields.io/npm/l/@crup/react-timer-hook?style=for-the-badge&label=license&color=111827">
+  </a>
+  <a href="https://crup.github.io/react-timer-hook/">
+    <img alt="React Timer Hook docs" src="https://img.shields.io/badge/docs-111827?style=for-the-badge&logo=githubpages&logoColor=FFFFFF">
   </a>
 </p>
 
-Small, reusable React timer utility for product interfaces, shared component systems, and time-based UI flows.
+Small, reusable React timer hook utility for product interfaces, shared component systems, and time-based UI flows.
+
+[GitHub](https://github.com/crup/react-timer-hook) · [npm](https://www.npmjs.com/package/@crup/react-timer-hook) · [Docs](https://crup.github.io/react-timer-hook/)
 
 ### 🧭 What I Care About
 
