@@ -24,22 +24,22 @@ My work usually sits between service design, distributed systems, runtime decisi
 
 <p>
   <a href="https://github.com/crup/react-timer-hook">
-    <img alt="crup/react-timer-hook" src="https://img.shields.io/badge/crup%2Freact--timer--hook-111827?style=for-the-badge&logo=github&logoColor=FFFFFF">
+    <img alt="crup/react-timer-hook" src="https://img.shields.io/badge/crup%2Freact--timer--hook-111827?logo=github&logoColor=FFFFFF">
   </a>
   <a href="https://www.npmjs.com/package/@crup/react-timer-hook">
-    <img alt="@crup/react-timer-hook" src="https://img.shields.io/badge/@crup%2Freact--timer--hook-111827?style=for-the-badge&logo=npm&logoColor=CB3837">
+    <img alt="@crup/react-timer-hook" src="https://img.shields.io/badge/@crup%2Freact--timer--hook-111827?logo=npm&logoColor=CB3837">
   </a>
   <a href="https://www.npmjs.com/package/@crup/react-timer-hook">
-    <img alt="NPM version" src="https://img.shields.io/npm/v/@crup/react-timer-hook?style=for-the-badge&label=version&logo=npm&logoColor=CB3837&color=111827">
+    <img alt="NPM version" src="https://img.shields.io/npm/v/@crup/react-timer-hook?label=version&logo=npm&logoColor=CB3837&color=111827">
   </a>
   <a href="https://www.npmjs.com/package/@crup/react-timer-hook">
-    <img alt="NPM weekly downloads" src="https://img.shields.io/npm/dw/@crup/react-timer-hook?style=for-the-badge&label=weekly%20downloads&logo=npm&logoColor=CB3837&color=111827">
+    <img alt="NPM weekly downloads" src="https://img.shields.io/npm/dw/@crup/react-timer-hook?label=weekly%20downloads&logo=npm&logoColor=CB3837&color=111827">
   </a>
   <a href="https://www.npmjs.com/package/@crup/react-timer-hook">
-    <img alt="NPM license" src="https://img.shields.io/npm/l/@crup/react-timer-hook?style=for-the-badge&label=license&color=111827">
+    <img alt="NPM license" src="https://img.shields.io/npm/l/@crup/react-timer-hook?label=license&color=111827">
   </a>
   <a href="https://crup.github.io/react-timer-hook/">
-    <img alt="React Timer Hook docs" src="https://img.shields.io/badge/docs-111827?style=for-the-badge&logo=githubpages&logoColor=FFFFFF">
+    <img alt="React Timer Hook docs" src="https://img.shields.io/badge/docs-111827?logo=githubpages&logoColor=FFFFFF">
   </a>
 </p>
 
